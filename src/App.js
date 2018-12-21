@@ -86,7 +86,7 @@ render()
      <div style={{textAlign:"center", backgroundColor:"grey", width:"100%",height:"100vh"}} >
        <MuiThemeProvider muiTheme={muiTheme}>
 
-      <AppBar title="WEATHER FINDER"
+      <AppBar title="WEATHER"
        showMenuIconButton={false}
         titleStyle={{color: Colors.white, fontSize:50,fontFamily:"impact",overflow-x:"auto"}} 
         style={{textAlign:"center"}}
