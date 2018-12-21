@@ -88,7 +88,7 @@ render()
 
       <AppBar title="WEATHER FINDER"
        showMenuIconButton={false}
-        titleStyle={{color: Colors.white, fontSize:50,fontFamily:"impact"}} 
+        titleStyle={{color: Colors.white, fontSize:50,fontFamily:"impact",overflow-x:"auto"}} 
         style={{textAlign:"center"}}
          >
         
